@@ -1,0 +1,173 @@
+//
+// base styles
+// --------------------------------------------------
+
+
+// body
+
+body {
+  margin: 0;
+  padding: 0;
+  color: @gray;
+  background-color: @white;
+  font-size: 100%;
+  line-height: 1.2;
+  font-family: @font;
+}
+
+@media (min-width: 1000px) {
+  body { font-size: 110%; }
+}
+
+@media (min-width: 1300px) {
+  body { font-size: 120%; }
+}
+
+@media (min-width: 1600px) {
+  body { font-size: 130%; }
+}
+
+
+// headings
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: @heading-color;
+  margin: 1em 0 .5em;
+  line-height: 1.1;
+}
+
+h1 {
+  margin: 0 0 .5em;
+  font-size: 180%;
+  font-family: @font-feature;
+}
+
+h2 { font-size: 130%; }
+h3 { font-size: 110%; }
+
+h4,
+h5,
+h6 { font-size: 100%; }
+
+
+// p and ul
+
+p,
+ul { line-height: 1.5; }
+
+p { margin: 0 0 1em; }
+
+blockquote {
+  margin: 2em 0;
+  padding: 1em;
+  color: @gray;
+  font-family: @font-feature;
+  font-size: 1em;
+  border-bottom: 1px solid @border-color;
+  border-top: 1px solid @border-color;
+  font-style: italic;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+  image-rendering: optimizeQuality;
+}
+
+hr {
+  height: 0;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  border: 0;
+  border-top: 1px solid @border-color;
+}
+
+table {
+  background-color: transparent;
+  border-spacing: 0;
+  border-collapse: collapse;
+  border-top: 1px solid #ddd;
+  margin: 2em 0;
+}
+
+.table {
+  width: 100%;
+  max-width: 100%;
+}
+
+th,
+td {
+  padding: .5em 1em;
+  vertical-align: top;
+  text-align: left;
+  border: 1px solid @border-color;
+}
+
+ul {
+  margin: 1em 0;
+  padding: 0;
+  list-style: none;
+}
+
+ul li {
+  margin: 0;
+  padding: .2em 0 .2em 25px;
+  background: @bg-bullet-img;
+}
+
+
+// links
+
+a {
+  color: @link-color;
+  border-bottom: 1px solid;
+  text-decoration: none;
+  -webkit-transition: background-color 1s;
+  -moz-transition: background-color 2s;
+  -ms-transition: background-color 2s;
+  -o-transition: background-color 2s;
+  transition: background-color 1s;
+}
+
+a:link {
+  color: @link-color;
+  border-bottom: 1px solid;
+  text-decoration: none;
+}
+
+a:visited {
+  color: @visited-color;
+  border-bottom: 1px solid;
+  text-decoration: none;
+}
+
+a:focus {
+  outline: thin dotted;
+  color: @focus-color;
+  background-color: @focus-bg;
+}
+
+a:hover {
+  color: @hover-color;
+  background-color: @hover-bg;
+}
+
+a:active {
+  color: @active-color;
+  background-color: @active-background;
+}
+
+
+// links wide screen
+
+@media only screen and (max-width: 750px) {
+  a:link,
+  a:visited { word-wrap: break-word; }
+}
