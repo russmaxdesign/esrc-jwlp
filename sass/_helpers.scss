@@ -5,29 +5,29 @@
 
 // colors
 
-.c-black { color: @black; }
-.c-white { color: @white; }
-.c-gray-light { color: @gray-light; }
-.c-gray-mid { color: @gray-mid; }
-.c-gray { color: @gray; }
-.c-gray-dark { color: @gray-dark; }
-.c-yellow { color: @yellow; }
+.c-black { color: $black; }
+.c-white { color: $white; }
+.c-gray-light { color: $gray-light; }
+.c-gray-mid { color: $gray-mid; }
+.c-gray { color: $gray; }
+.c-gray-dark { color: $gray-dark; }
+.c-yellow { color: $yellow; }
 
 
 // bg colors
 
-.bg-black { background-color: @black; }
-.bg-white { background-color: @white; }
-.bg-gray-light { background-color: @gray-light; }
-.bg-gray-mid { background-color: @gray-mid; }
-.bg-gray { background-color: @gray; }
-.bg-gray-dark { background-color: @gray-dark; }
-.bg-yellow { background-color: @yellow; }
+.bg-black { background-color: $black; }
+.bg-white { background-color: $white; }
+.bg-gray-light { background-color: $gray-light; }
+.bg-gray-mid { background-color: $gray-mid; }
+.bg-gray { background-color: $gray; }
+.bg-gray-dark { background-color: $gray-dark; }
+.bg-yellow { background-color: $yellow; }
 
 
 // fonts
 
-.font-feature { font-family: @font-feature; }
+.font-feature { font-family: $font-feature; }
 
 
 // margins
@@ -72,6 +72,7 @@
 .overflow {
   overflow: hidden;
   zoom: 1;
+
   _overflow: visible;
 }
 
@@ -90,8 +91,8 @@
 }
 
 .list-inline {
-  padding-left: 0;
   margin-left: -5px;
+  padding-left: 0;
   list-style: none;
 }
 
@@ -116,7 +117,7 @@
   clip: rect(0 0 0 0);
   width: 1px;
   height: 1px;
+  border: 0;
   margin: -1px;
   padding: 0;
-  border: 0;
 }
