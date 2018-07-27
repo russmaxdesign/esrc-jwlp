@@ -71,9 +71,6 @@
 
 .overflow {
   overflow: hidden;
-  zoom: 1;
-
-  _overflow: visible;
 }
 
 
@@ -91,8 +88,8 @@
 }
 
 .list-inline {
-  margin-left: -5px;
   padding-left: 0;
+  margin-left: -5px;
   list-style: none;
 }
 
@@ -117,7 +114,7 @@
   clip: rect(0 0 0 0);
   width: 1px;
   height: 1px;
-  border: 0;
   margin: -1px;
   padding: 0;
+  border: 0;
 }

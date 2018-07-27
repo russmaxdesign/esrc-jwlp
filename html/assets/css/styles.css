@@ -402,15 +402,13 @@ a:visited {
   text-decoration: none; }
 
 a:focus {
-  outline: thin dotted;
   color: #000; }
 
 a:hover {
   color: #1b2c63; }
 
 a:active {
-  color: #704095;
-  background: none; }
+  color: #704095; }
 
 @media only screen and (max-width: 750px) {
   a:link,
@@ -418,20 +416,20 @@ a:active {
     word-wrap: break-word; } }
 
 .btn {
+  display: inline-block;
+  border: 1px solid transparent;
+  border-color: #222;
+  border-radius: .2em;
+  margin-bottom: 0;
+  padding: .5em 1em;
+  cursor: pointer;
   color: #fff !important;
   background-color: #004095;
-  border-color: #222;
-  display: inline-block;
-  padding: .5em 1em;
-  margin-bottom: 0;
   font-weight: 400;
   line-height: 1.2;
   text-align: center;
-  white-space: nowrap;
   vertical-align: middle;
-  cursor: pointer;
-  border: 1px solid transparent;
-  border-radius: .2em;
+  white-space: nowrap;
   text-decoration: none; }
 
 .btn:hover {
@@ -558,9 +556,7 @@ a:active {
   float: right; }
 
 .overflow {
-  overflow: hidden;
-  zoom: 1;
-  _overflow: visible; }
+  overflow: hidden; }
 
 .list-unstyled {
   padding-left: 0;
@@ -572,8 +568,8 @@ a:active {
   background: none; }
 
 .list-inline {
-  margin-left: -5px;
   padding-left: 0;
+  margin-left: -5px;
   list-style: none; }
 
 .list-inline > li {
@@ -592,9 +588,9 @@ a:active {
   clip: rect(0 0 0 0);
   width: 1px;
   height: 1px;
-  border: 0;
   margin: -1px;
-  padding: 0; }
+  padding: 0;
+  border: 0; }
 
 .header,
 .footer,

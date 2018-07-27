@@ -13,7 +13,7 @@
 }
 
 .nav-container {
-  background: $white;
+  background: $nav-bg-color;
 }
 
 .nav ul {
@@ -39,28 +39,24 @@
   text-decoration: none;
 }
 
-.nav a:link {
-  color: $black;
-}
-
+.nav a:link,
 .nav a:visited {
   color: $black;
 }
 
 .nav a:focus {
-  outline: thin dotted;
   color: $white;
   background: $black;
 }
 
 .nav a:hover {
-  color: $white;
-  background: $hover-color;
+  color: $black;
+  background: $yellow;
 }
 
 .nav a:active {
-  color: $white;
-  background: $active-color;
+  color: $black;
+  background: lighten($yellow, 10%);
 }
 
 
@@ -114,7 +110,7 @@
   display: block;
   border-bottom: none;
   padding-left: 40px !important;
-  background: url('${img-path}/icon-cross.png') no-repeat 20px 22px;
+  background: url('../img/icon-cross.png') no-repeat 20px 22px;
 }
 
 .nav a.mobile_handle:link {
@@ -128,24 +124,24 @@
 .nav a.mobile_handle:focus {
   outline: thin dotted;
   color: $white;
-  background: $black url('${img-path}/icon-cross.png') no-repeat 20px -77px;
+  background: $black url('../img/icon-cross.png') no-repeat 20px -77px;
 }
 
 .nav a.mobile_handle:hover {
   color: $white;
-  background: $hover-color url('${img-path}/icon-cross.png') no-repeat 20px -77px;
+  background: $mustard url('../img/icon-cross.png') no-repeat 20px -77px;
 }
 
 .nav a.mobile_handle:active {
   color: $white;
-  background: $active-color url('${img-path}/icon-cross.png') no-repeat 20px -77px;
+  background: $mustard url('../img/icon-cross.png') no-repeat 20px -77px;
 }
 
 .secondary a.mobile_handle {
   display: block;
   border-bottom: none;
   padding-left: 20px !important;
-  background: url('${img-path}/icon-cross.png') no-repeat 0 -194px;
+  background: url('../img/icon-cross.png') no-repeat 0 -194px;
   font-weight: bold;
 }
 
@@ -160,6 +156,6 @@
   .nav a {
     float: left;
     border-bottom: none;
-    background: url('${img-path}/bg-nav.png') no-repeat 0 100%;
+    background: url('../img/bg-nav.png') no-repeat 0 100%;
   }
 }
