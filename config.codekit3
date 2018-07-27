@@ -482,6 +482,13 @@
 		"oAP": "\/kit\/_header-part2.html",
 		"oF": 0
 		},
+	"\/kit\/_header-part3.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/kit\/_header-part3.html",
+		"oF": 0
+		},
 	"\/kit\/_nav.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -708,7 +715,7 @@
 		"oA": 0,
 		"oAP": "\/html\/assets\/css\/styles.css",
 		"oF": 2,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		}
 	},

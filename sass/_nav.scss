@@ -34,73 +34,71 @@
   display: block;
   border-bottom: 1px solid #ccc;
   padding: 18px;
-  color: $black;
   font-weight: bold;
   text-decoration: none;
 }
 
 .nav a:link,
 .nav a:visited {
-  color: $black;
+  color: $nav-color;
+  background: $nav-bg-color;
 }
 
 .nav a:focus {
-  color: $white;
-  background: $black;
+  color: $nav-focus-color;
+  background: $nav-focus-bg-color;
 }
 
 .nav a:hover {
-  color: $black;
-  background: $yellow;
+  color: $nav-hover-color;
+  background: $nav-hover-bg-color;
 }
 
 .nav a:active {
-  color: $black;
-  background: lighten($yellow, 10%);
+  color: $nav-active-color;
+  background: $nav-active-bg-color;
 }
 
 
 // current
 
-#home .home a:link,
-#essay .essay a:link,
-#women .women a:link,
-#resources .resources a:link,
-#gallery .gallery a:link,
-#home .home a:visited,
-#essay .essay a:visited,
-#women .women a:visited,
-#resources .resources a:visited,
-#gallery .gallery a:visited {
-  color: $primary;
+#home .home a,
+#about .about a,
+#introduction .introduction a,
+#essay .essay a,
+#more .more a,
+#women .women a,
+#themes .themes a,
+#resources .resources a,
+#gallery .gallery a {
+  color: $nav-hover-color;
+  background: $nav-hover-bg-color;
 }
 
 #home .home a:focus,
+#about .about a:focus,
+#introduction .introduction a:focus,
 #essay .essay a:focus,
+#more .more a:focus,
 #women .women a:focus,
+#themes .themes a:focus,
 #resources .resources a:focus,
 #gallery .gallery a:focus {
-  outline: thin dotted;
-  color: $white;
-  background-color: $black;
-}
-
-#home .home a:hover,
-#essay .essay a:hover,
-#women .women a:hover,
-#resources .resources a:hover,
-#gallery .gallery a:hover {
-  color: $white;
-  background-color: #9b2f24;
+  color: $nav-focus-color;
+  background: $nav-focus-bg-color;
 }
 
 #home .home a:active,
+#about .about a:active,
+#introduction .introduction a:active,
 #essay .essay a:active,
+#more .more a:active,
 #women .women a:active,
+#themes .themes a:active,
 #resources .resources a:active,
 #gallery .gallery a:active {
-  color: $white;
-  background: $black;
+  color: $nav-active-color;
+  background: $nav-active-bg-color;
 }
 
 
@@ -129,12 +127,12 @@
 
 .nav a.mobile_handle:hover {
   color: $white;
-  background: $mustard url('../img/icon-cross.png') no-repeat 20px -77px;
+  background: $yellow url('../img/icon-cross.png') no-repeat 20px -77px;
 }
 
 .nav a.mobile_handle:active {
   color: $white;
-  background: $mustard url('../img/icon-cross.png') no-repeat 20px -77px;
+  background: $yellow url('../img/icon-cross.png') no-repeat 20px -77px;
 }
 
 .secondary a.mobile_handle {
