@@ -24,27 +24,16 @@
 // header
 
 .header-container {
-  border-bottom: 5px solid @header-border-color;
-  padding: 20px 20px 10px;
+  padding: 35px 20px;
   background: @header-bg-color;
 }
 
 .heading-main {
   margin: 0 0 5px;
   color: @header-heading-color;
-  font-size: 30px;
+  font-size: 45px;
   line-height: 1;
 }
-
-.heading-secondary {
-  margin: 0;
-  color: @header-heading-color;
-  font-size: 14px;
-  font-weight: normal;
-  line-height: 1;
-  text-transform: uppercase;
-}
-
 
 // content
 
@@ -66,10 +55,21 @@
 }
 
 
+// survey
+
+.survey-container {
+  background: @bg-survey;
+}
+
+.survey {
+  padding: 0 20px;
+}
+
+
 // credits
 
 .credits-container {
-  color: @white;
+  color: @black;
   background: @bg-credits;
 }
 
@@ -78,27 +78,22 @@
 }
 
 .credits-container a:link,
-.credits-container a:visited,
-.footer-container a:link,
-.footer-container a:visited {
-  color: @white;
-}
-
-.credits-container a:focus,
-.footer-container a:focus {
-  outline: thin dotted;
+.credits-container a:visited {
   color: @black;
-  background-color: @white;
 }
 
-.credits-container a:hover,
-.footer-container a:hover {
+.credits-container a:focus {
+  outline: thin dotted;
   color: @white;
-  background-color: #9b2f24;
+  background-color: @black;
 }
 
-.credits-container a:active,
-.footer-container a:active {
+.credits-container a:hover {
+  color: @white;
+  background-color: @black;
+}
+
+.credits-container a:active {
   color: @black;
   background-color: @white;
 }
@@ -130,25 +125,47 @@
   border-bottom: none;
 }
 
+.footer-container a:link,
+.footer-container a:visited {
+  color: @white;
+}
+
+.footer-container a:focus {
+  outline: thin dotted;
+  color: @black;
+  background-color: @white;
+}
+
+.footer-container a:hover {
+  color: @black;
+  background-color: @white;
+}
+
+.footer-container a:active {
+  color: @black;
+  background-color: @white;
+}
+
+
 // wide screen
 
 @media only screen and (min-width:750px) {
   .header-container {
-    padding: 40px 20px 35px;
+    padding: 40px 0 35px;
   }
+
   .heading-main {
-    font-size: 40px;
-  }
-  .heading-secondary {
-    font-size: 16px;
+    font-size: 45px;
   }
 
   .gutter-vertical {
     padding: 60px 0;
   }
+
   .gutter-vertical-small {
     padding: 40px 0;
   }
+
   .gutter {
     margin-right: 6%;
   }
@@ -175,9 +192,11 @@
   .main {
     width: 63%;
   }
+
   .col2 {
     width: 47%;
   }
+
   .col3 {
     width: 29.3%;
   }
@@ -187,12 +206,9 @@
     margin-left: 20%;
   }
 
-  .content {
-    padding: 0;
-  }
-  .credits {
-    padding: 0;
-  }
+  .content,
+  .survey,
+  .credits,
   .footer {
     padding: 0;
   }
