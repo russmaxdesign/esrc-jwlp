@@ -25,12 +25,12 @@
 
 .header-container {
   padding: 35px 20px;
-  background: @header-bg-color;
+  background: $header-bg-color;
 }
 
 .heading-main {
   margin: 0 0 5px;
-  color: @header-heading-color;
+  color: $header-heading-color;
   font-size: 45px;
   line-height: 1;
 }
@@ -38,11 +38,11 @@
 // content
 
 .content-container {
-  background: @content-bg-color;
+  background: $content-bg-color;
 }
 
 .content-container2 {
-  background: @bg-content;
+  background: $bg-content;
 }
 
 .content {
@@ -58,7 +58,7 @@
 // survey
 
 .survey-container {
-  background: @bg-survey;
+  background: $bg-survey;
 }
 
 .survey {
@@ -69,8 +69,8 @@
 // credits
 
 .credits-container {
-  color: @black;
-  background: @bg-credits;
+  color: $black;
+  background: $bg-credits;
 }
 
 .credits {
@@ -79,29 +79,29 @@
 
 .credits-container a:link,
 .credits-container a:visited {
-  color: @black;
+  color: $black;
 }
 
 .credits-container a:focus {
   outline: thin dotted;
-  color: @white;
-  background-color: @black;
+  color: $white;
+  background-color: $black;
 }
 
 .credits-container a:hover {
-  color: @white;
-  background-color: @black;
+  color: $white;
+  background-color: $black;
 }
 
 .credits-container a:active {
-  color: @black;
-  background-color: @white;
+  color: $black;
+  background-color: $white;
 }
 
 // footer
 
 .footer-container {
-  background: @footer-bg-color;
+  background: $footer-bg-color;
 }
 
 .footer {
@@ -127,23 +127,23 @@
 
 .footer-container a:link,
 .footer-container a:visited {
-  color: @white;
+  color: $white;
 }
 
 .footer-container a:focus {
   outline: thin dotted;
-  color: @black;
-  background-color: @white;
+  color: $black;
+  background-color: $white;
 }
 
 .footer-container a:hover {
-  color: @black;
-  background-color: @white;
+  color: $black;
+  background-color: $white;
 }
 
 .footer-container a:active {
-  color: @black;
-  background-color: @white;
+  color: $black;
+  background-color: $white;
 }
 
 
