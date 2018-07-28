@@ -5,15 +5,14 @@
 
 // nav
 
-.nav {
-  overflow: hidden;
-  zoom: 1;
-
-  _overflow: visible;
+.nav-container {
+  float: left;
+  margin: 5px 0 0 40px;
+  background: $nav-bg-color;
 }
 
-.nav-container {
-  background: $nav-bg-color;
+.nav {
+  padding-bottom: 5px;
 }
 
 .nav ul {
@@ -31,11 +30,14 @@
 }
 
 .nav a {
+  @extend .small;
+
   display: block;
-  border-bottom: 1px solid #ccc;
-  padding: 18px;
-  font-weight: bold;
+  border-bottom: 5px solid $white;
+  padding: 10px;
+  margin: 0 10px 0 0;
   text-decoration: none;
+  text-transform: uppercase;
 }
 
 .nav a:link,
@@ -71,8 +73,7 @@
 #themes .themes a,
 #resources .resources a,
 #gallery .gallery a {
-  color: $nav-hover-color;
-  background: $nav-hover-bg-color;
+  border-bottom: 5px solid $yellow;
 }
 
 #home .home a:focus,
@@ -153,7 +154,6 @@
 
   .nav a {
     float: left;
-    border-bottom: none;
     background: url('../img/bg-nav.png') no-repeat 0 100%;
   }
 }

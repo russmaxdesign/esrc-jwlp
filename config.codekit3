@@ -312,8 +312,8 @@
 		"oA": 0,
 		"oAP": "\/html\/assets\/img\/bullet.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -392,6 +392,16 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/html\/assets\/js\/jquery.responsinav-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/html\/assets\/js\/jquery.responsinav-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/html\/assets\/js\/jquery.responsinav.js": {
 		"ft": 64,
 		"ma": 0,
@@ -419,11 +429,18 @@
 		"oAP": "\/html\/entry.html",
 		"oF": 0
 		},
-	"\/html\/index.html": {
+	"\/html\/gallery.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/html\/index.html",
+		"oAP": "\/html\/gallery.html",
+		"oF": 0
+		},
+	"\/html\/home.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/html\/home.html",
 		"oF": 0
 		},
 	"\/html\/more.html": {
@@ -438,6 +455,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/html\/resources.html",
+		"oF": 0
+		},
+	"\/html\/themes.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/html\/themes.html",
 		"oF": 0
 		},
 	"\/index.html": {
@@ -524,11 +548,18 @@
 		"oAP": "\/html\/entry.html",
 		"oF": 2
 		},
-	"\/kit\/index.kit": {
+	"\/kit\/gallery.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/html\/index.html",
+		"oAP": "\/html\/gallery.html",
+		"oF": 2
+		},
+	"\/kit\/home.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/html\/home.html",
 		"oF": 2
 		},
 	"\/kit\/more.kit": {
@@ -538,11 +569,25 @@
 		"oAP": "\/html\/more.html",
 		"oF": 2
 		},
+	"\/kit\/pattern-library.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/html\/pattern-library.html",
+		"oF": 2
+		},
 	"\/kit\/resources.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/html\/resources.html",
+		"oF": 2
+		},
+	"\/kit\/themes.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/html\/themes.html",
 		"oF": 2
 		},
 	"\/masters\/bullet.psd": {

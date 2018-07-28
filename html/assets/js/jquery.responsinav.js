@@ -11,7 +11,7 @@
 			breakpoint : 780,
 			nav_container : 'nav',
 			nav_element : 'ul',
-			label : 'Site navigation',
+			label : 'Navigation',
 			nav_container_other : '',
 			nav_element_other : '',
 			label_other : ''
