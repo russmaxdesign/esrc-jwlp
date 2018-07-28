@@ -16,7 +16,8 @@
 // gutters
 
 .gutter-vertical,
-.gutter-vertical-small {
+.gutter-vertical-small,
+.gutter-vertical-xsmall {
   padding: 30px 0;
 }
 
@@ -143,6 +144,10 @@
 
   .gutter-vertical-small {
     padding: 40px 0;
+  }
+
+  .gutter-vertical-xsmall {
+    padding: 30px 0;
   }
 
   .gutter {
