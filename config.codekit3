@@ -422,11 +422,18 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"\/html\/entry.html": {
+	"\/html\/entry-tall.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/html\/entry.html",
+		"oAP": "\/html\/entry-tall.html",
+		"oF": 0
+		},
+	"\/html\/entry-wide.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/html\/entry-wide.html",
 		"oF": 0
 		},
 	"\/html\/gallery.html": {
@@ -448,6 +455,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/html\/more.html",
+		"oF": 0
+		},
+	"\/html\/pattern-library.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/html\/pattern-library.html",
 		"oF": 0
 		},
 	"\/html\/resources.html": {
@@ -541,11 +555,18 @@
 		"oAP": "\/html\/about.html",
 		"oF": 2
 		},
-	"\/kit\/entry.kit": {
+	"\/kit\/entry-tall.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/html\/entry.html",
+		"oAP": "\/html\/entry-tall.html",
+		"oF": 2
+		},
+	"\/kit\/entry-wide.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/html\/entry-wide.html",
 		"oF": 2
 		},
 	"\/kit\/gallery.kit": {

@@ -77,27 +77,6 @@
   padding: 0 20px;
 }
 
-.credits-container a:link,
-.credits-container a:visited {
-  color: $black;
-}
-
-.credits-container a:focus {
-  outline: thin dotted;
-  color: $white;
-  background-color: $black;
-}
-
-.credits-container a:hover {
-  color: $white;
-  background-color: $black;
-}
-
-.credits-container a:active {
-  color: $black;
-  background-color: $white;
-}
-
 // footer
 
 .footer-container {
