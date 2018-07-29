@@ -6,8 +6,10 @@
 // nav
 
 .nav-container {
-  float: left;
-  margin: 5px 0 0 40px;
+  clear: both;
+  display: block;
+  margin: 0;
+  padding: 5px 0 0;
   background: $nav-bg-color;
 }
 
@@ -32,10 +34,10 @@
 .nav a {
   @extend .small;
 
-  display: block;
+  float: left;
   border-bottom: 5px solid $white;
-  padding: 10px;
-  margin: 0 10px 0 0;
+  padding: 5px;
+  margin: 0 5px 0 0;
   text-decoration: none;
   text-transform: uppercase;
 }
@@ -105,55 +107,21 @@
 
 // mobile
 
-.nav a.mobile_handle {
-  display: block;
-  border-bottom: none;
-  padding-left: 40px !important;
-  background: url('../img/icon-cross.png') no-repeat 20px 22px;
-}
-
-.nav a.mobile_handle:link {
-  color: $black;
-}
-
-.nav a.mobile_handle:visited {
-  color: $black;
-}
-
-.nav a.mobile_handle:focus {
-  outline: thin dotted;
-  color: $white;
-  background: $black url('../img/icon-cross.png') no-repeat 20px -77px;
-}
-
-.nav a.mobile_handle:hover {
-  color: $white;
-  background: $yellow url('../img/icon-cross.png') no-repeat 20px -77px;
-}
-
-.nav a.mobile_handle:active {
-  color: $white;
-  background: $yellow url('../img/icon-cross.png') no-repeat 20px -77px;
-}
-
-.secondary a.mobile_handle {
-  display: block;
-  border-bottom: none;
-  padding-left: 20px !important;
-  background: url('../img/icon-cross.png') no-repeat 0 -194px;
-  font-weight: bold;
-}
 
 
 // wide screen
 
 @media only screen and (min-width:750px) {
-  a.mobile_handle {
-    display: none !important;
+  .nav-container {
+    float: left;
+    clear: none;
+    margin: 0 0 0 40px;
+    padding: 5px 0 0;
   }
 
-  .nav a {
-    float: left;
-    background: url('../img/bg-nav.png') no-repeat 0 100%;
-  }
+.nav a {
+
+  padding: 10px;
+  margin: 0 10px 0 0;
+}
 }

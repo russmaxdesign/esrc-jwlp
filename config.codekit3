@@ -392,26 +392,6 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"\/html\/assets\/js\/jquery.responsinav-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/html\/assets\/js\/jquery.responsinav-min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/html\/assets\/js\/jquery.responsinav.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/html\/assets\/js\/jquery.responsinav-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
 	"\/html\/assets\/js\/respond.min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -623,13 +603,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/masters\/font-size.numbers",
-		"oF": 0
-		},
-	"\/masters\/font-size.numbers.sb-8a4c9004-R51JSa": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/masters\/font-size.numbers.sb-8a4c9004-R51JSa",
 		"oF": 0
 		},
 	"\/masters\/susan 9.jpg": {

@@ -221,9 +221,10 @@
 .home-link {
   position: relative;
   float: left;
+  width: 120px;
+  border-bottom: 0;
   margin: 0 1em 1em 0;
   text-decoration: none;
-  border-bottom: 0;
 }
 
 .home-link:link,
@@ -265,16 +266,16 @@
 .home-link-more {
   position: relative;
   float: left;
-  width: 220px;
-  height: 220px;
-  line-height: 220px;
-  margin: 0 1em 1em 0;
-  text-decoration: none;
+  width: 120px;
+  height: 120px;
   border-bottom: 0;
-  text-align: center;
+  margin: 0 1em 1em 0;
   color: $white !important;
-  font-weight: bold;
   background: rgba(0,0,0,.5);
+  font-weight: bold;
+  line-height: 120px;
+  text-align: center;
+  text-decoration: none;
 }
 
 .home-link-more:focus,
@@ -282,3 +283,51 @@
   background: rgba(0,0,0,.8);
 }
 
+
+@media (min-width: 600px) {
+  .home-link {
+    width: 150px;
+  }
+
+  .home-link-more {
+    width: 150px;
+    height: 150px;
+    line-height: 150px;
+  }
+}
+
+@media (min-width: 800px) {
+  .home-link {
+    width: 180px;
+  }
+
+  .home-link-more {
+    width: 180px;
+    height: 180px;
+    line-height: 180px;
+  }
+}
+
+@media (min-width: 1000px) {
+  .home-link {
+    width: 200px;
+  }
+
+  .home-link-more {
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .home-link {
+    width: 220px;
+  }
+
+  .home-link-more {
+    width: 220px;
+    height: 220px;
+    line-height: 220px;
+  }
+}
