@@ -42,6 +42,7 @@ h6 { font-size: 100%; }
 .medium { font-size: 93.75%; }
 .small { font-size: 87.5%; }
 .xsmall { font-size: 75%; }
+.heading-main { font-size: 200%; }
 
 @media (min-width: 1200px) {
   body { font-size: 106.25%; }
@@ -52,6 +53,7 @@ h6 { font-size: 100%; }
   .medium { font-size: 94.117647058824%; }
   .small { font-size: 88.235294117647%; }
   .xsmall { font-size: 76.470588235294%; }
+  .heading-main { font-size: 247.058823529412%; }
 }
 
 @media (min-width: 1400px) {
@@ -63,6 +65,7 @@ h6 { font-size: 100%; }
   .medium { font-size: 94.444444444444%; }
   .small { font-size: 88.888888888889%; }
   .xsmall { font-size: 77.777777777778%; }
+  .heading-main { font-size: 250%; }
 }
 
 

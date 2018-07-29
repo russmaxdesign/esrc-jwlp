@@ -25,14 +25,13 @@
 // header
 
 .header-container {
-  padding: 35px 20px;
+  padding: 25px 20px;
   background: $header-bg-color;
 }
 
 .heading-main {
   margin: 0 0 5px;
   color: $header-heading-color;
-  font-size: 45px;
   line-height: 1;
 }
 
@@ -132,10 +131,6 @@
 @media only screen and (min-width:750px) {
   .header-container {
     padding: 40px 0 0;
-  }
-
-  .heading-main {
-    font-size: 45px;
   }
 
   .gutter-vertical {
