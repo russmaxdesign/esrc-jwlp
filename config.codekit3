@@ -273,6 +273,61 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/html\/assets\/img\/about01.png": {
+		"ft": 32768,
+		"iS": 29743,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/about01.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/html\/assets\/img\/about02.png": {
+		"ft": 32768,
+		"iS": 11549,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/about02.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/html\/assets\/img\/about03.png": {
+		"ft": 32768,
+		"iS": 15149,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/about03.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/html\/assets\/img\/about04.png": {
+		"ft": 32768,
+		"iS": 12970,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/about04.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/html\/assets\/img\/about05.png": {
+		"ft": 32768,
+		"iS": 13481,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/about05.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/html\/assets\/img\/bg-content.jpg": {
 		"ft": 16384,
 		"iS": 4441,
@@ -317,6 +372,127 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/html\/assets\/img\/cropped-esther-dean.jpg": {
+		"ft": 16384,
+		"iS": 73471,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/cropped-esther-dean.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/cropped-gabbi-sar-shalom.jpg": {
+		"ft": 16384,
+		"iS": 52088,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/cropped-gabbi-sar-shalom.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/cropped-hannah-piterman.jpg": {
+		"ft": 16384,
+		"iS": 34645,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/cropped-hannah-piterman.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/cropped-jackie-king.jpg": {
+		"ft": 16384,
+		"iS": 49373,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/cropped-jackie-king.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/cropped-kate-ashmor.jpg": {
+		"ft": 16384,
+		"iS": 60219,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/cropped-kate-ashmor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/cropped-leora-givoni.jpg": {
+		"ft": 16384,
+		"iS": 59434,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/cropped-leora-givoni.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/cropped-romy-prins.jpg": {
+		"ft": 16384,
+		"iS": 60733,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/cropped-romy-prins.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/cropped-shani-aaron.jpg": {
+		"ft": 16384,
+		"iS": 57491,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/cropped-shani-aaron.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/cropped-simone-szalmuk-singer.jpg": {
+		"ft": 16384,
+		"iS": 47081,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/cropped-simone-szalmuk-singer.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/cropped-susan-wise.jpg": {
+		"ft": 16384,
+		"iS": 54284,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/cropped-susan-wise.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/cropped-susie-ivany.jpg": {
+		"ft": 16384,
+		"iS": 73536,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/cropped-susie-ivany.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/html\/assets\/img\/dummy.png": {
 		"ft": 32768,
 		"iS": 967,
@@ -326,6 +502,127 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/html\/assets\/img\/full-esther-dean.jpg": {
+		"ft": 16384,
+		"iS": 150328,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/full-esther-dean.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/full-gabbi-sar-shalom.jpg": {
+		"ft": 16384,
+		"iS": 190203,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/full-gabbi-sar-shalom.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/full-hannah-piterman.jpg": {
+		"ft": 16384,
+		"iS": 93233,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/full-hannah-piterman.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/full-jackie-king.jpg": {
+		"ft": 16384,
+		"iS": 130929,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/full-jackie-king.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/full-kate-ashmor.jpg": {
+		"ft": 16384,
+		"iS": 222399,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/full-kate-ashmor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/full-leora-givoni.jpg": {
+		"ft": 16384,
+		"iS": 134939,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/full-leora-givoni.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/full-romy-prins.jpg": {
+		"ft": 16384,
+		"iS": 183595,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/full-romy-prins.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/full-shani-aaron.jpg": {
+		"ft": 16384,
+		"iS": 148924,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/full-shani-aaron.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/full-simone-szalmuk-singer.jpg": {
+		"ft": 16384,
+		"iS": 104379,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/full-simone-szalmuk-singer.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/full-susan-wise.jpg": {
+		"ft": 16384,
+		"iS": 135199,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/full-susan-wise.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/full-susie-ivany.jpg": {
+		"ft": 16384,
+		"iS": 169647,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/full-susie-ivany.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/html\/assets\/img\/icon-cross.png": {
@@ -401,6 +698,83 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"\/html\/entry-esther-dean.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/html\/entry-esther-dean.html",
+		"oF": 0
+		},
+	"\/html\/entry-gabbi-sar-shalom.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/html\/entry-gabbi-sar-shalom.html",
+		"oF": 0
+		},
+	"\/html\/entry-hannah-piterman.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/html\/entry-hannah-piterman.html",
+		"oF": 0
+		},
+	"\/html\/entry-jackie-king.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/html\/entry-jackie-king.html",
+		"oF": 0
+		},
+	"\/html\/entry-kate-ashmor.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/html\/entry-kate-ashmor.html",
+		"oF": 0
+		},
+	"\/html\/entry-leora-givoni.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/html\/entry-leora-givoni.html",
+		"oF": 0
+		},
+	"\/html\/entry-romy-prins.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/html\/entry-romy-prins.html",
+		"oF": 0
+		},
+	"\/html\/entry-shani-aaron.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/html\/entry-shani-aaron.html",
+		"oF": 0
+		},
+	"\/html\/entry-simone-szalmuk-singer.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/html\/entry-simone-szalmuk-singer.html",
+		"oF": 0
+		},
+	"\/html\/entry-susan-wise.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/html\/entry-susan-wise.html",
+		"oF": 0
+		},
+	"\/html\/entry-susie-ivany.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/html\/entry-susie-ivany.html",
+		"oF": 0
 		},
 	"\/html\/entry-tall.html": {
 		"cB": 0,
@@ -535,18 +909,95 @@
 		"oAP": "\/html\/about.html",
 		"oF": 2
 		},
+	"\/kit\/entry-esther-dean.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/html\/entry-esther-dean.html",
+		"oF": 2
+		},
+	"\/kit\/entry-gabbi-sar-shalom.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/html\/entry-gabbi-sar-shalom.html",
+		"oF": 2
+		},
+	"\/kit\/entry-hannah-piterman.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/html\/entry-hannah-piterman.html",
+		"oF": 2
+		},
+	"\/kit\/entry-jackie-king.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/html\/entry-jackie-king.html",
+		"oF": 2
+		},
+	"\/kit\/entry-kate-ashmor.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/html\/entry-kate-ashmor.html",
+		"oF": 2
+		},
+	"\/kit\/entry-leora-givoni.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/html\/entry-leora-givoni.html",
+		"oF": 2
+		},
+	"\/kit\/entry-romy-prins.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/html\/entry-romy-prins.html",
+		"oF": 2
+		},
+	"\/kit\/entry-shani-aaron.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/html\/entry-shani-aaron.html",
+		"oF": 2
+		},
+	"\/kit\/entry-simone-szalmuk-singer.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/html\/entry-simone-szalmuk-singer.html",
+		"oF": 2
+		},
+	"\/kit\/entry-susan-wise.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/html\/entry-susan-wise.html",
+		"oF": 2
+		},
+	"\/kit\/entry-susie-ivany.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/html\/entry-susie-ivany.html",
+		"oF": 2
+		},
 	"\/kit\/entry-tall.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/html\/entry-tall.html",
+		"oAP": "\/kit\/entry-tall.html",
 		"oF": 2
 		},
 	"\/kit\/entry-wide.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/html\/entry-wide.html",
+		"oAP": "\/kit\/entry-wide.html",
 		"oF": 2
 		},
 	"\/kit\/gallery.kit": {
@@ -591,6 +1042,41 @@
 		"oAP": "\/html\/themes.html",
 		"oF": 2
 		},
+	"\/masters\/about01.ai": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/masters\/about01.ai",
+		"oF": 0
+		},
+	"\/masters\/about02.ai": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/masters\/about02.ai",
+		"oF": 0
+		},
+	"\/masters\/about03.ai": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/masters\/about03.ai",
+		"oF": 0
+		},
+	"\/masters\/about04.ai": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/masters\/about04.ai",
+		"oF": 0
+		},
+	"\/masters\/about05.ai": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/masters\/about05.ai",
+		"oF": 0
+		},
 	"\/masters\/bullet.psd": {
 		"cB": 0,
 		"ft": 8192,
@@ -604,17 +1090,6 @@
 		"oA": 0,
 		"oAP": "\/masters\/font-size.numbers",
 		"oF": 0
-		},
-	"\/masters\/susan 9.jpg": {
-		"ft": 16384,
-		"iS": 4648349,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/masters\/susan 9.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/README.md": {
 		"cB": 0,
