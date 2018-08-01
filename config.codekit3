@@ -647,6 +647,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/html\/assets\/img\/logofinal.png": {
+		"ft": 32768,
+		"iS": 10467,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/logofinal.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/html\/assets\/img\/thelma-hunter-1979.jpg": {
 		"ft": 16384,
 		"iS": 86560,
@@ -667,6 +678,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/html\/assets\/img\/VMC_VicGov_Lockup.png": {
+		"ft": 32768,
+		"iS": 16344,
+		"oA": 0,
+		"oAP": "\/html\/assets\/img\/VMC_VicGov_Lockup.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/html\/assets\/js\/autolist.js": {
@@ -698,6 +720,13 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"\/html\/credits.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/html\/credits.html",
+		"oF": 0
 		},
 	"\/html\/entry-esther-dean.html": {
 		"cB": 0,
@@ -907,6 +936,13 @@
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/html\/about.html",
+		"oF": 2
+		},
+	"\/kit\/credits.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/html\/credits.html",
 		"oF": 2
 		},
 	"\/kit\/entry-esther-dean.kit": {
