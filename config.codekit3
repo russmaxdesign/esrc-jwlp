@@ -1,5 +1,5 @@
 {
-"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
+"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https://codekitapp.com/",
 "buildSteps": [
 	{
 		"name": "Process All Remaining Files and Folders",
@@ -7,1127 +7,1190 @@
 		"uuidString": "458BC1CE-BD45-4E9C-A531-2A34D3B86711"
 		}
 	],
-"creatorBuild": "26680",
+"creatorBuild": "29127",
 "files": {
-	"\/favicon.ico": {
+	"/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/favicon.ico",
+		"oAP": "/favicon.ico",
 		"oF": 0
 		},
-	"\/html\/about.html": {
+	"/html/about.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/about.html",
+		"oAP": "/html/about.html",
 		"oF": 0
 		},
-	"\/html\/assets\/css\/ie.css": {
+	"/html/assets/css/ie.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/css\/ie-min.css",
+		"oAP": "/html/assets/css/ie-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/html\/assets\/css\/print.css": {
+	"/html/assets/css/print.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/css\/print-min.css",
+		"oAP": "/html/assets/css/print-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/html\/assets\/css\/styles.css": {
+	"/html/assets/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/css\/styles-min.css",
+		"oAP": "/html/assets/css/styles-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/html\/assets\/favicons\/android-icon-144x144.png": {
+	"/html/assets/favicons/android-icon-144x144.png": {
 		"ft": 32768,
 		"iS": 4800,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/android-icon-144x144.png",
+		"oAP": "/html/assets/favicons/android-icon-144x144.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/favicons\/android-icon-192x192.png": {
+	"/html/assets/favicons/android-icon-192x192.png": {
 		"ft": 32768,
 		"iS": 6302,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/android-icon-192x192.png",
+		"oAP": "/html/assets/favicons/android-icon-192x192.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/favicons\/apple-icon-114x114.png": {
+	"/html/assets/favicons/apple-icon-114x114.png": {
 		"ft": 32768,
 		"iS": 3706,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/apple-icon-114x114.png",
+		"oAP": "/html/assets/favicons/apple-icon-114x114.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/favicons\/apple-icon-120x120.png": {
+	"/html/assets/favicons/apple-icon-120x120.png": {
 		"ft": 32768,
 		"iS": 3926,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/apple-icon-120x120.png",
+		"oAP": "/html/assets/favicons/apple-icon-120x120.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/favicons\/apple-icon-144x144.png": {
+	"/html/assets/favicons/apple-icon-144x144.png": {
 		"ft": 32768,
 		"iS": 4800,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/apple-icon-144x144.png",
+		"oAP": "/html/assets/favicons/apple-icon-144x144.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/favicons\/apple-icon-152x152.png": {
+	"/html/assets/favicons/apple-icon-152x152.png": {
 		"ft": 32768,
 		"iS": 5147,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/apple-icon-152x152.png",
+		"oAP": "/html/assets/favicons/apple-icon-152x152.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/favicons\/apple-icon-180x180.png": {
+	"/html/assets/favicons/apple-icon-180x180.png": {
 		"ft": 32768,
 		"iS": 6335,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/apple-icon-180x180.png",
+		"oAP": "/html/assets/favicons/apple-icon-180x180.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/favicons\/apple-icon-57x57.png": {
+	"/html/assets/favicons/apple-icon-57x57.png": {
 		"ft": 32768,
 		"iS": 2169,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/apple-icon-57x57.png",
+		"oAP": "/html/assets/favicons/apple-icon-57x57.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/favicons\/apple-icon-60x60.png": {
+	"/html/assets/favicons/apple-icon-60x60.png": {
 		"ft": 32768,
 		"iS": 2267,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/apple-icon-60x60.png",
+		"oAP": "/html/assets/favicons/apple-icon-60x60.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/favicons\/apple-icon-72x72.png": {
+	"/html/assets/favicons/apple-icon-72x72.png": {
 		"ft": 32768,
 		"iS": 2518,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/apple-icon-72x72.png",
+		"oAP": "/html/assets/favicons/apple-icon-72x72.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/favicons\/apple-icon-76x76.png": {
+	"/html/assets/favicons/apple-icon-76x76.png": {
 		"ft": 32768,
 		"iS": 2603,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/apple-icon-76x76.png",
+		"oAP": "/html/assets/favicons/apple-icon-76x76.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/favicons\/apple-icon-precomposed.png": {
+	"/html/assets/favicons/apple-icon-precomposed.png": {
 		"ft": 32768,
 		"iS": 6871,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/apple-icon-precomposed.png",
+		"oAP": "/html/assets/favicons/apple-icon-precomposed.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/favicons\/apple-icon.png": {
+	"/html/assets/favicons/apple-icon.png": {
 		"ft": 32768,
 		"iS": 6871,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/apple-icon.png",
+		"oAP": "/html/assets/favicons/apple-icon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/favicons\/favicon-16x16.png": {
+	"/html/assets/favicons/favicon-16x16.png": {
 		"ft": 32768,
 		"iS": 1074,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/favicon-16x16.png",
+		"oAP": "/html/assets/favicons/favicon-16x16.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/favicons\/favicon-32x32.png": {
+	"/html/assets/favicons/favicon-32x32.png": {
 		"ft": 32768,
 		"iS": 1614,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/favicon-32x32.png",
+		"oAP": "/html/assets/favicons/favicon-32x32.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/favicons\/favicon-96x96.png": {
+	"/html/assets/favicons/favicon-96x96.png": {
 		"ft": 32768,
 		"iS": 3189,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/favicon-96x96.png",
+		"oAP": "/html/assets/favicons/favicon-96x96.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/favicons\/ms-icon-144x144.png": {
+	"/html/assets/favicons/ms-icon-144x144.png": {
 		"ft": 32768,
 		"iS": 4800,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/ms-icon-144x144.png",
+		"oAP": "/html/assets/favicons/ms-icon-144x144.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/favicons\/ms-icon-150x150.png": {
+	"/html/assets/favicons/ms-icon-150x150.png": {
 		"ft": 32768,
 		"iS": 5028,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/ms-icon-150x150.png",
+		"oAP": "/html/assets/favicons/ms-icon-150x150.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/favicons\/ms-icon-310x310.png": {
+	"/html/assets/favicons/ms-icon-310x310.png": {
 		"ft": 32768,
 		"iS": 16054,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/ms-icon-310x310.png",
+		"oAP": "/html/assets/favicons/ms-icon-310x310.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/favicons\/ms-icon-70x70.png": {
+	"/html/assets/favicons/ms-icon-70x70.png": {
 		"ft": 32768,
 		"iS": 2448,
 		"oA": 0,
-		"oAP": "\/html\/assets\/favicons\/ms-icon-70x70.png",
+		"oAP": "/html/assets/favicons/ms-icon-70x70.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/img\/about01.png": {
+	"/html/assets/img/about01.png": {
 		"ft": 32768,
 		"iS": 29743,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/about01.png",
+		"oAP": "/html/assets/img/about01.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/img\/about02.png": {
+	"/html/assets/img/about02.png": {
 		"ft": 32768,
 		"iS": 11549,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/about02.png",
+		"oAP": "/html/assets/img/about02.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/img\/about03.png": {
+	"/html/assets/img/about03.png": {
 		"ft": 32768,
 		"iS": 15149,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/about03.png",
+		"oAP": "/html/assets/img/about03.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/img\/about04.png": {
+	"/html/assets/img/about04.png": {
 		"ft": 32768,
 		"iS": 12970,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/about04.png",
+		"oAP": "/html/assets/img/about04.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/img\/about05.png": {
+	"/html/assets/img/about05.png": {
 		"ft": 32768,
 		"iS": 13481,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/about05.png",
+		"oAP": "/html/assets/img/about05.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/img\/bg-content.jpg": {
+	"/html/assets/img/bg-content.jpg": {
 		"ft": 16384,
 		"iS": 4441,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/bg-content.jpg",
+		"oAP": "/html/assets/img/bg-content.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/bg-credits.jpg": {
+	"/html/assets/img/bg-credits.jpg": {
 		"ft": 16384,
 		"iS": 10039,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/bg-credits.jpg",
+		"oAP": "/html/assets/img/bg-credits.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/bg-nav.png": {
+	"/html/assets/img/bg-nav.png": {
 		"ft": 32768,
 		"iS": 1077,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/bg-nav.png",
+		"oAP": "/html/assets/img/bg-nav.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/img\/bullet.png": {
+	"/html/assets/img/bullet.png": {
 		"ft": 32768,
 		"iS": 424,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/bullet.png",
+		"oAP": "/html/assets/img/bullet.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/img\/cropped-esther-dean.jpg": {
+	"/html/assets/img/cropped-esther-dean.jpg": {
 		"ft": 16384,
 		"iS": 73471,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/cropped-esther-dean.jpg",
+		"oAP": "/html/assets/img/cropped-esther-dean.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/cropped-gabbi-sar-shalom.jpg": {
+	"/html/assets/img/cropped-gabbi-sar-shalom.jpg": {
 		"ft": 16384,
 		"iS": 52088,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/cropped-gabbi-sar-shalom.jpg",
+		"oAP": "/html/assets/img/cropped-gabbi-sar-shalom.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/cropped-hannah-piterman.jpg": {
+	"/html/assets/img/cropped-hannah-piterman.jpg": {
 		"ft": 16384,
 		"iS": 34645,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/cropped-hannah-piterman.jpg",
+		"oAP": "/html/assets/img/cropped-hannah-piterman.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/cropped-jackie-king.jpg": {
+	"/html/assets/img/cropped-jackie-king.jpg": {
 		"ft": 16384,
 		"iS": 49373,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/cropped-jackie-king.jpg",
+		"oAP": "/html/assets/img/cropped-jackie-king.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/cropped-kate-ashmor.jpg": {
+	"/html/assets/img/cropped-kate-ashmor.jpg": {
 		"ft": 16384,
 		"iS": 60219,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/cropped-kate-ashmor.jpg",
+		"oAP": "/html/assets/img/cropped-kate-ashmor.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/cropped-leora-givoni.jpg": {
+	"/html/assets/img/cropped-leora-givoni.jpg": {
 		"ft": 16384,
 		"iS": 59434,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/cropped-leora-givoni.jpg",
+		"oAP": "/html/assets/img/cropped-leora-givoni.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/cropped-romy-prins.jpg": {
+	"/html/assets/img/cropped-romy-prins.jpg": {
 		"ft": 16384,
 		"iS": 60733,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/cropped-romy-prins.jpg",
+		"oAP": "/html/assets/img/cropped-romy-prins.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/cropped-shani-aaron.jpg": {
+	"/html/assets/img/cropped-shani-aaron.jpg": {
 		"ft": 16384,
 		"iS": 57491,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/cropped-shani-aaron.jpg",
+		"oAP": "/html/assets/img/cropped-shani-aaron.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/cropped-simone-szalmuk-singer.jpg": {
+	"/html/assets/img/cropped-simone-szalmuk-singer.jpg": {
 		"ft": 16384,
 		"iS": 47081,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/cropped-simone-szalmuk-singer.jpg",
+		"oAP": "/html/assets/img/cropped-simone-szalmuk-singer.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/cropped-susan-wise.jpg": {
+	"/html/assets/img/cropped-susan-wise.jpg": {
 		"ft": 16384,
 		"iS": 54284,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/cropped-susan-wise.jpg",
+		"oAP": "/html/assets/img/cropped-susan-wise.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/cropped-susie-ivany.jpg": {
+	"/html/assets/img/cropped-susie-ivany.jpg": {
 		"ft": 16384,
 		"iS": 73536,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/cropped-susie-ivany.jpg",
+		"oAP": "/html/assets/img/cropped-susie-ivany.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/dummy.png": {
+	"/html/assets/img/dummy.png": {
 		"ft": 32768,
 		"iS": 967,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/dummy.png",
+		"oAP": "/html/assets/img/dummy.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/img\/full-esther-dean.jpg": {
+	"/html/assets/img/full-esther-dean.jpg": {
 		"ft": 16384,
 		"iS": 150328,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/full-esther-dean.jpg",
+		"oAP": "/html/assets/img/full-esther-dean.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/full-gabbi-sar-shalom.jpg": {
+	"/html/assets/img/full-gabbi-sar-shalom.jpg": {
 		"ft": 16384,
 		"iS": 190203,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/full-gabbi-sar-shalom.jpg",
+		"oAP": "/html/assets/img/full-gabbi-sar-shalom.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/full-hannah-piterman.jpg": {
+	"/html/assets/img/full-hannah-piterman.jpg": {
 		"ft": 16384,
 		"iS": 93233,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/full-hannah-piterman.jpg",
+		"oAP": "/html/assets/img/full-hannah-piterman.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/full-jackie-king.jpg": {
+	"/html/assets/img/full-jackie-king.jpg": {
 		"ft": 16384,
 		"iS": 130929,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/full-jackie-king.jpg",
+		"oAP": "/html/assets/img/full-jackie-king.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/full-kate-ashmor.jpg": {
+	"/html/assets/img/full-kate-ashmor.jpg": {
 		"ft": 16384,
 		"iS": 222399,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/full-kate-ashmor.jpg",
+		"oAP": "/html/assets/img/full-kate-ashmor.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/full-leora-givoni.jpg": {
+	"/html/assets/img/full-leora-givoni.jpg": {
 		"ft": 16384,
 		"iS": 134939,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/full-leora-givoni.jpg",
+		"oAP": "/html/assets/img/full-leora-givoni.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/full-romy-prins.jpg": {
+	"/html/assets/img/full-romy-prins.jpg": {
 		"ft": 16384,
 		"iS": 183595,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/full-romy-prins.jpg",
+		"oAP": "/html/assets/img/full-romy-prins.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/full-shani-aaron.jpg": {
+	"/html/assets/img/full-shani-aaron.jpg": {
 		"ft": 16384,
 		"iS": 148924,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/full-shani-aaron.jpg",
+		"oAP": "/html/assets/img/full-shani-aaron.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/full-simone-szalmuk-singer.jpg": {
+	"/html/assets/img/full-simone-szalmuk-singer.jpg": {
 		"ft": 16384,
 		"iS": 104379,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/full-simone-szalmuk-singer.jpg",
+		"oAP": "/html/assets/img/full-simone-szalmuk-singer.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/full-susan-wise.jpg": {
+	"/html/assets/img/full-susan-wise.jpg": {
 		"ft": 16384,
 		"iS": 135199,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/full-susan-wise.jpg",
+		"oAP": "/html/assets/img/full-susan-wise.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/full-susie-ivany.jpg": {
+	"/html/assets/img/full-susie-ivany.jpg": {
 		"ft": 16384,
 		"iS": 169647,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/full-susie-ivany.jpg",
+		"oAP": "/html/assets/img/full-susie-ivany.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/icon-cross.png": {
+	"/html/assets/img/icon-cross.png": {
 		"ft": 32768,
 		"iS": 1007,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/icon-cross.png",
+		"oAP": "/html/assets/img/icon-cross.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/img\/JewishHerald_1879_400.png": {
+	"/html/assets/img/JewishHerald_1879_400.png": {
 		"ft": 32768,
 		"iS": 39561,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/JewishHerald_1879_400.png",
+		"oAP": "/html/assets/img/JewishHerald_1879_400.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/img\/logofinal.png": {
+	"/html/assets/img/logofinal.png": {
 		"ft": 32768,
 		"iS": 10467,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/logofinal.png",
+		"oAP": "/html/assets/img/logofinal.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/img\/thelma-hunter-1979.jpg": {
+	"/html/assets/img/thelma-hunter-1979.jpg": {
 		"ft": 16384,
 		"iS": 86560,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/thelma-hunter-1979.jpg",
+		"oAP": "/html/assets/img/thelma-hunter-1979.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/thelma-hunter-2004.jpg": {
+	"/html/assets/img/thelma-hunter-2004.jpg": {
 		"ft": 16384,
 		"iS": 107928,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/thelma-hunter-2004.jpg",
+		"oAP": "/html/assets/img/thelma-hunter-2004.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/html\/assets\/img\/VMC_VicGov_Lockup.png": {
+	"/html/assets/img/VMC_VicGov_Lockup.png": {
 		"ft": 32768,
 		"iS": 16344,
 		"oA": 0,
-		"oAP": "\/html\/assets\/img\/VMC_VicGov_Lockup.png",
+		"oAP": "/html/assets/img/VMC_VicGov_Lockup.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/html\/assets\/js\/autolist.js": {
+	"/html/assets/js/autolist.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/html\/assets\/js\/autolist-min.js",
+		"oAP": "/html/assets/js/autolist-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/html\/assets\/js\/jquery-1.8.0.min.js": {
+	"/html/assets/js/jquery-1.8.0.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/html\/assets\/js\/jquery-1.8.0.min-min.js",
+		"oAP": "/html/assets/js/jquery-1.8.0.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/html\/assets\/js\/respond.min.js": {
+	"/html/assets/js/respond.min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/html\/assets\/js\/respond.min-min.js",
+		"oAP": "/html/assets/js/respond.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/html\/credits.html": {
+	"/html/credits.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/credits.html",
+		"oAP": "/html/credits.html",
 		"oF": 0
 		},
-	"\/html\/entry-esther-dean.html": {
+	"/html/entry-esther-dean.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-esther-dean.html",
+		"oAP": "/html/entry-esther-dean.html",
 		"oF": 0
 		},
-	"\/html\/entry-gabbi-sar-shalom.html": {
+	"/html/entry-gabbi-sar-shalom.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-gabbi-sar-shalom.html",
+		"oAP": "/html/entry-gabbi-sar-shalom.html",
 		"oF": 0
 		},
-	"\/html\/entry-hannah-piterman.html": {
+	"/html/entry-hannah-piterman.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-hannah-piterman.html",
+		"oAP": "/html/entry-hannah-piterman.html",
 		"oF": 0
 		},
-	"\/html\/entry-jackie-king.html": {
+	"/html/entry-jackie-king.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-jackie-king.html",
+		"oAP": "/html/entry-jackie-king.html",
 		"oF": 0
 		},
-	"\/html\/entry-kate-ashmor.html": {
+	"/html/entry-kate-ashmor.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-kate-ashmor.html",
+		"oAP": "/html/entry-kate-ashmor.html",
 		"oF": 0
 		},
-	"\/html\/entry-leora-givoni.html": {
+	"/html/entry-leora-givoni.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-leora-givoni.html",
+		"oAP": "/html/entry-leora-givoni.html",
 		"oF": 0
 		},
-	"\/html\/entry-romy-prins.html": {
+	"/html/entry-romy-prins.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-romy-prins.html",
+		"oAP": "/html/entry-romy-prins.html",
 		"oF": 0
 		},
-	"\/html\/entry-shani-aaron.html": {
+	"/html/entry-shani-aaron.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-shani-aaron.html",
+		"oAP": "/html/entry-shani-aaron.html",
 		"oF": 0
 		},
-	"\/html\/entry-simone-szalmuk-singer.html": {
+	"/html/entry-simone-szalmuk-singer.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-simone-szalmuk-singer.html",
+		"oAP": "/html/entry-simone-szalmuk-singer.html",
 		"oF": 0
 		},
-	"\/html\/entry-susan-wise.html": {
+	"/html/entry-susan-wise.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-susan-wise.html",
+		"oAP": "/html/entry-susan-wise.html",
 		"oF": 0
 		},
-	"\/html\/entry-susie-ivany.html": {
+	"/html/entry-susie-ivany.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-susie-ivany.html",
+		"oAP": "/html/entry-susie-ivany.html",
 		"oF": 0
 		},
-	"\/html\/entry-tall.html": {
+	"/html/entry-tall.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-tall.html",
+		"oAP": "/html/entry-tall.html",
 		"oF": 0
 		},
-	"\/html\/entry-wide.html": {
+	"/html/entry-wide.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-wide.html",
+		"oAP": "/html/entry-wide.html",
 		"oF": 0
 		},
-	"\/html\/gallery.html": {
+	"/html/gallery.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/gallery.html",
+		"oAP": "/html/gallery.html",
 		"oF": 0
 		},
-	"\/html\/home.html": {
+	"/html/home.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/home.html",
+		"oAP": "/html/home.html",
 		"oF": 0
 		},
-	"\/html\/more.html": {
+	"/html/more.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/more.html",
+		"oAP": "/html/more.html",
 		"oF": 0
 		},
-	"\/html\/pattern-library.html": {
+	"/html/pattern-library.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/pattern-library.html",
+		"oAP": "/html/pattern-library.html",
 		"oF": 0
 		},
-	"\/html\/resources.html": {
+	"/html/resources.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/resources.html",
+		"oAP": "/html/resources.html",
 		"oF": 0
 		},
-	"\/html\/themes.html": {
+	"/html/themes.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/themes.html",
+		"oAP": "/html/themes.html",
 		"oF": 0
 		},
-	"\/index.html": {
+	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/index.html",
+		"oAP": "/index.html",
 		"oF": 0
 		},
-	"\/jwlp.sublime-project": {
+	"/jwlp.sublime-project": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/jwlp.sublime-project",
+		"oAP": "/jwlp.sublime-project",
 		"oF": 0
 		},
-	"\/jwlp.sublime-workspace": {
+	"/jwlp.sublime-workspace": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/jwlp.sublime-workspace",
+		"oAP": "/jwlp.sublime-workspace",
 		"oF": 0
 		},
-	"\/kit\/_footer.kit": {
+	"/kit/_footer.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
-		"oAP": "\/kit\/_footer.html",
+		"oAP": "/kit/_footer.html",
 		"oF": 0
 		},
-	"\/kit\/_header-part1.kit": {
+	"/kit/_header-part1.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
-		"oAP": "\/kit\/_header-part1.html",
+		"oAP": "/kit/_header-part1.html",
 		"oF": 0
 		},
-	"\/kit\/_header-part2.kit": {
+	"/kit/_header-part2.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
-		"oAP": "\/kit\/_header-part2.html",
+		"oAP": "/kit/_header-part2.html",
 		"oF": 0
 		},
-	"\/kit\/_header-part3.kit": {
+	"/kit/_header-part3.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
-		"oAP": "\/kit\/_header-part3.html",
+		"oAP": "/kit/_header-part3.html",
 		"oF": 0
 		},
-	"\/kit\/_nav.kit": {
+	"/kit/_nav.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
-		"oAP": "\/kit\/_nav.html",
+		"oAP": "/kit/_nav.html",
 		"oF": 0
 		},
-	"\/kit\/_pattern.kit": {
+	"/kit/_pattern.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
-		"oAP": "\/kit\/_pattern.html",
+		"oAP": "/kit/_pattern.html",
 		"oF": 0
 		},
-	"\/kit\/_survey.kit": {
+	"/kit/_survey.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 1,
-		"oAP": "\/kit\/_survey.html",
+		"oAP": "/kit/_survey.html",
 		"oF": 0
 		},
-	"\/kit\/about.kit": {
+	"/kit/about.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/about.html",
+		"oAP": "/html/about.html",
 		"oF": 2
 		},
-	"\/kit\/credits.kit": {
+	"/kit/credits.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/credits.html",
+		"oAP": "/html/credits.html",
 		"oF": 2
 		},
-	"\/kit\/entry-esther-dean.kit": {
+	"/kit/entry-esther-dean.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-esther-dean.html",
+		"oAP": "/html/entry-esther-dean.html",
 		"oF": 2
 		},
-	"\/kit\/entry-gabbi-sar-shalom.kit": {
+	"/kit/entry-gabbi-sar-shalom.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-gabbi-sar-shalom.html",
+		"oAP": "/html/entry-gabbi-sar-shalom.html",
 		"oF": 2
 		},
-	"\/kit\/entry-hannah-piterman.kit": {
+	"/kit/entry-hannah-piterman.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-hannah-piterman.html",
+		"oAP": "/html/entry-hannah-piterman.html",
 		"oF": 2
 		},
-	"\/kit\/entry-jackie-king.kit": {
+	"/kit/entry-jackie-king.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-jackie-king.html",
+		"oAP": "/html/entry-jackie-king.html",
 		"oF": 2
 		},
-	"\/kit\/entry-kate-ashmor.kit": {
+	"/kit/entry-kate-ashmor.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-kate-ashmor.html",
+		"oAP": "/html/entry-kate-ashmor.html",
 		"oF": 2
 		},
-	"\/kit\/entry-leora-givoni.kit": {
+	"/kit/entry-leora-givoni.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-leora-givoni.html",
+		"oAP": "/html/entry-leora-givoni.html",
 		"oF": 2
 		},
-	"\/kit\/entry-romy-prins.kit": {
+	"/kit/entry-romy-prins.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-romy-prins.html",
+		"oAP": "/html/entry-romy-prins.html",
 		"oF": 2
 		},
-	"\/kit\/entry-shani-aaron.kit": {
+	"/kit/entry-shani-aaron.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-shani-aaron.html",
+		"oAP": "/html/entry-shani-aaron.html",
 		"oF": 2
 		},
-	"\/kit\/entry-simone-szalmuk-singer.kit": {
+	"/kit/entry-simone-szalmuk-singer.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-simone-szalmuk-singer.html",
+		"oAP": "/html/entry-simone-szalmuk-singer.html",
 		"oF": 2
 		},
-	"\/kit\/entry-susan-wise.kit": {
+	"/kit/entry-susan-wise.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-susan-wise.html",
+		"oAP": "/html/entry-susan-wise.html",
 		"oF": 2
 		},
-	"\/kit\/entry-susie-ivany.kit": {
+	"/kit/entry-susie-ivany.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/entry-susie-ivany.html",
+		"oAP": "/html/entry-susie-ivany.html",
 		"oF": 2
 		},
-	"\/kit\/entry-tall.kit": {
+	"/kit/entry-tall.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/kit\/entry-tall.html",
+		"oAP": "/kit/entry-tall.html",
 		"oF": 2
 		},
-	"\/kit\/entry-wide.kit": {
+	"/kit/entry-wide.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/kit\/entry-wide.html",
+		"oAP": "/kit/entry-wide.html",
 		"oF": 2
 		},
-	"\/kit\/gallery.kit": {
+	"/kit/gallery.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/gallery.html",
+		"oAP": "/html/gallery.html",
 		"oF": 2
 		},
-	"\/kit\/home.kit": {
+	"/kit/home.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/home.html",
+		"oAP": "/html/home.html",
 		"oF": 2
 		},
-	"\/kit\/more.kit": {
+	"/kit/more.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/more.html",
+		"oAP": "/html/more.html",
 		"oF": 2
 		},
-	"\/kit\/pattern-library.kit": {
+	"/kit/pattern-library.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/pattern-library.html",
+		"oAP": "/html/pattern-library.html",
 		"oF": 2
 		},
-	"\/kit\/resources.kit": {
+	"/kit/resources.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/resources.html",
+		"oAP": "/html/resources.html",
 		"oF": 2
 		},
-	"\/kit\/themes.kit": {
+	"/kit/themes.kit": {
 		"cB": 0,
 		"ft": 2048,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/html\/themes.html",
+		"oAP": "/html/themes.html",
 		"oF": 2
 		},
-	"\/masters\/about01.ai": {
+	"/masters/about01.ai": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/masters\/about01.ai",
+		"oAP": "/masters/about01.ai",
 		"oF": 0
 		},
-	"\/masters\/about02.ai": {
+	"/masters/about02.ai": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/masters\/about02.ai",
+		"oAP": "/masters/about02.ai",
 		"oF": 0
 		},
-	"\/masters\/about03.ai": {
+	"/masters/about03.ai": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/masters\/about03.ai",
+		"oAP": "/masters/about03.ai",
 		"oF": 0
 		},
-	"\/masters\/about04.ai": {
+	"/masters/about04.ai": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/masters\/about04.ai",
+		"oAP": "/masters/about04.ai",
 		"oF": 0
 		},
-	"\/masters\/about05.ai": {
+	"/masters/about05.ai": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/masters\/about05.ai",
+		"oAP": "/masters/about05.ai",
 		"oF": 0
 		},
-	"\/masters\/bullet.psd": {
+	"/masters/bullet.psd": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/masters\/bullet.psd",
+		"oAP": "/masters/bullet.psd",
 		"oF": 0
 		},
-	"\/masters\/font-size.numbers": {
+	"/masters/font-size.numbers": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/masters\/font-size.numbers",
+		"oAP": "/masters/font-size.numbers",
 		"oF": 0
 		},
-	"\/README.md": {
+	"/README.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -1135,8 +1198,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "\/README.html",
+		"oAP": "/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1145,7 +1209,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/sass\/_base.scss": {
+	"/sass/_base.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1153,12 +1217,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/_base.css",
+		"oAP": "/sass/_base.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/_button.scss": {
+	"/sass/_button.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1166,12 +1230,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/_button.css",
+		"oAP": "/sass/_button.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/_helpers.scss": {
+	"/sass/_helpers.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1179,12 +1243,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/_helpers.css",
+		"oAP": "/sass/_helpers.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/_layout.scss": {
+	"/sass/_layout.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1192,12 +1256,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/_layout.css",
+		"oAP": "/sass/_layout.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/_modules.scss": {
+	"/sass/_modules.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1205,12 +1269,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/_modules.css",
+		"oAP": "/sass/_modules.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/_nav.scss": {
+	"/sass/_nav.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1218,12 +1282,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/_nav.css",
+		"oAP": "/sass/_nav.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/_normalize.scss": {
+	"/sass/_normalize.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1231,12 +1295,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/_normalize.css",
+		"oAP": "/sass/_normalize.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/_variables.scss": {
+	"/sass/_variables.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1244,12 +1308,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/_variables.css",
+		"oAP": "/sass/_variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/print.scss": {
+	"/sass/print.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1257,12 +1321,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/css\/print.css",
+		"oAP": "/html/assets/css/print.css",
 		"oF": 2,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/styles.scss": {
+	"/sass/styles.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1270,7 +1334,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/html\/assets\/css\/styles.css",
+		"oAP": "/html/assets/css/styles.css",
 		"oF": 2,
 		"oS": 3,
 		"uL": 1
@@ -1292,141 +1356,100 @@
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
-	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
 	"autoprefixerEnableIEGrid": 0,
+	"babel7PresetType": 1,
+	"babelAllowRCFiles": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
-	"babelConfigFileHandlingType": 0,
+	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
 	"babelPlugins": {
+		"arrow-functions": {
+			"active": 0
+			},
 		"async-generator-functions": {
 			"active": 0
 			},
 		"async-to-generator": {
 			"active": 0
 			},
-		"async-to-module-method": {
+		"block-scoped-functions": {
+			"active": 0
+			},
+		"block-scoping": {
 			"active": 0
 			},
 		"class-properties": {
 			"active": 0
 			},
+		"classes": {
+			"active": 0
+			},
+		"computed-properties": {
+			"active": 0
+			},
 		"decorators": {
 			"active": 0
 			},
-		"decorators-legacy": {
+		"destructuring": {
 			"active": 0
 			},
 		"do-expressions": {
 			"active": 0
 			},
-		"es2015-arrow-functions": {
+		"dotall-regex": {
 			"active": 0
 			},
-		"es2015-block-scoped-functions": {
-			"active": 0
-			},
-		"es2015-block-scoping": {
-			"active": 0
-			},
-		"es2015-classes": {
-			"active": 0
-			},
-		"es2015-computed-properties": {
-			"active": 0
-			},
-		"es2015-constants": {
-			"active": 0
-			},
-		"es2015-destructuring": {
-			"active": 0
-			},
-		"es2015-duplicate-keys": {
-			"active": 0
-			},
-		"es2015-for-of": {
-			"active": 0
-			},
-		"es2015-function-name": {
-			"active": 0
-			},
-		"es2015-literals": {
-			"active": 0
-			},
-		"es2015-modules-amd": {
-			"active": 0
-			},
-		"es2015-modules-commonjs": {
-			"active": 0
-			},
-		"es2015-modules-systemjs": {
-			"active": 0
-			},
-		"es2015-modules-umd": {
-			"active": 0
-			},
-		"es2015-object-super": {
-			"active": 0
-			},
-		"es2015-parameters": {
-			"active": 0
-			},
-		"es2015-shorthand-properties": {
-			"active": 0
-			},
-		"es2015-spread": {
-			"active": 0
-			},
-		"es2015-sticky-regex": {
-			"active": 0
-			},
-		"es2015-template-literals": {
-			"active": 0
-			},
-		"es2015-typeof-symbol": {
-			"active": 0
-			},
-		"es2015-unicode-regex": {
-			"active": 0
-			},
-		"es3-member-expression-literals": {
-			"active": 0
-			},
-		"es3-property-literals": {
-			"active": 0
-			},
-		"es5-property-mutators": {
-			"active": 0
-			},
-		"eval": {
+		"duplicate-keys": {
 			"active": 0
 			},
 		"exponentiation-operator": {
 			"active": 0
 			},
-		"export-extensions": {
+		"export-default-from": {
+			"active": 0
+			},
+		"export-namespace-from": {
 			"active": 0
 			},
 		"external-helpers": {
 			"active": 0
 			},
-		"flow-comments": {
+		"flow-strip-types": {
 			"active": 0
 			},
-		"flow-strip-types": {
+		"for-of": {
 			"active": 0
 			},
 		"function-bind": {
 			"active": 0
 			},
+		"function-name": {
+			"active": 0
+			},
+		"function-sent": {
+			"active": 0
+			},
+		"inline-consecutive-adds": {
+			"active": 0
+			},
 		"inline-environment-variables": {
 			"active": 0
 			},
+		"instanceof": {
+			"active": 0
+			},
 		"jscript": {
+			"active": 0
+			},
+		"literals": {
+			"active": 0
+			},
+		"logical-assignment-operators": {
 			"active": 0
 			},
 		"member-expression-literals": {
@@ -1438,7 +1461,58 @@
 		"minify-booleans": {
 			"active": 0
 			},
+		"minify-builtins": {
+			"active": 0
+			},
+		"minify-constant-folding": {
+			"active": 0
+			},
+		"minify-dead-code-elimination": {
+			"active": 0
+			},
+		"minify-flip-comparisons": {
+			"active": 0
+			},
+		"minify-guarded-expressions": {
+			"active": 0
+			},
+		"minify-infinity": {
+			"active": 0
+			},
+		"minify-mangle-names": {
+			"active": 0
+			},
+		"minify-numeric-literals": {
+			"active": 0
+			},
+		"minify-simplify": {
+			"active": 0
+			},
+		"minify-type-constructors": {
+			"active": 0
+			},
+		"modules-amd": {
+			"active": 0
+			},
+		"modules-commonjs": {
+			"active": 0
+			},
+		"modules-systemjs": {
+			"active": 0
+			},
+		"modules-umd": {
+			"active": 0
+			},
+		"new-target": {
+			"active": 0
+			},
 		"node-env-inline": {
+			"active": 0
+			},
+		"nullish-coalescing-operator": {
+			"active": 0
+			},
+		"numeric-separator": {
 			"active": 0
 			},
 		"object-assign": {
@@ -1450,7 +1524,28 @@
 		"object-set-prototype-of-to-assign": {
 			"active": 0
 			},
+		"object-super": {
+			"active": 0
+			},
+		"optional-catch-binding": {
+			"active": 0
+			},
+		"optional-chaining": {
+			"active": 0
+			},
+		"parameters": {
+			"active": 0
+			},
+		"pipeline-operator": {
+			"active": 0
+			},
+		"private-methods": {
+			"active": 0
+			},
 		"property-literals": {
+			"active": 0
+			},
+		"property-mutators": {
 			"active": 0
 			},
 		"proto-to-assign": {
@@ -1480,59 +1575,58 @@
 		"regenerator": {
 			"active": 0
 			},
+		"regexp-constructors": {
+			"active": 0
+			},
 		"remove-console": {
 			"active": 0
 			},
 		"remove-debugger": {
 			"active": 0
 			},
+		"remove-undefined": {
+			"active": 0
+			},
+		"reserved-words": {
+			"active": 0
+			},
 		"runtime": {
+			"active": 0
+			},
+		"shorthand-properties": {
 			"active": 0
 			},
 		"simplify-comparison-operators": {
 			"active": 0
 			},
+		"spread": {
+			"active": 0
+			},
+		"sticky-regex": {
+			"active": 0
+			},
 		"strict-mode": {
 			"active": 0
 			},
-		"syntax-async-generators": {
+		"template-literals": {
 			"active": 0
 			},
-		"syntax-class-properties": {
+		"throw-expressions": {
 			"active": 0
 			},
-		"syntax-decorators": {
-			"active": 0
-			},
-		"syntax-do-expressions": {
-			"active": 0
-			},
-		"syntax-export-extensions": {
-			"active": 0
-			},
-		"syntax-flow": {
-			"active": 0
-			},
-		"syntax-function-bind": {
-			"active": 0
-			},
-		"syntax-function-sent": {
-			"active": 0
-			},
-		"syntax-jsx": {
-			"active": 0
-			},
-		"syntax-object-rest-spread": {
-			"active": 0
-			},
-		"undeclared-variables-check": {
+		"typeof-symbol": {
 			"active": 0
 			},
 		"undefined-to-void": {
 			"active": 0
+			},
+		"unicode-property-regex": {
+			"active": 0
+			},
+		"unicode-regex": {
+			"active": 0
 			}
 		},
-	"babelPresetType": 193,
 	"babelRetainLines": 0,
 	"bowerAbbreviatedPath": "bower_components",
 	"bowerAutoCreateInfoFile": 1,
@@ -1541,6 +1635,7 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
+	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
 	"buildFolderActive": 0,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
@@ -1898,6 +1993,10 @@
 			"active": 0,
 			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
+		"max-classes-per-file": {
+			"active": 0,
+			"optionString": "1"
+			},
 		"max-depth": {
 			"active": 0,
 			"optionString": "{'max': 4}"
@@ -1909,6 +2008,10 @@
 		"max-lines": {
 			"active": 0,
 			"optionString": "{'max': 300, 'skipBlankLines': true, 'skipComments': true}"
+			},
+		"max-lines-per-function": {
+			"active": 0,
+			"optionString": "{'max': 50, 'skipBlankLines': true, 'skipComments': true, 'IIFEs': false}"
 			},
 		"max-nested-callbacks": {
 			"active": 0,
@@ -1954,6 +2057,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-async-promise-executor": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-await-in-loop": {
 			"active": 0,
 			"optionString": ""
@@ -1972,10 +2079,6 @@
 			},
 		"no-case-declarations": {
 			"active": 1,
-			"optionString": ""
-			},
-		"no-catch-shadow": {
-			"active": 0,
 			"optionString": ""
 			},
 		"no-class-assign": {
@@ -2174,9 +2277,13 @@
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
 			},
+		"no-misleading-character-class": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-mixed-operators": {
 			"active": 0,
-			"optionString": "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+			"optionString": "{'groups': [['+', '-', '*', '/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
 			},
 		"no-mixed-requires": {
 			"active": 0,
@@ -2426,6 +2533,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-useless-catch": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-useless-computed-key": {
 			"active": 0,
 			"optionString": ""
@@ -2530,6 +2641,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"prefer-object-spread": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
@@ -2558,6 +2673,10 @@
 			"active": 0,
 			"optionString": "'always'"
 			},
+		"require-atomic-updates": {
+			"active": 0,
+			"optionString": ""
+			},
 		"require-await": {
 			"active": 0,
 			"optionString": ""
@@ -2565,6 +2684,10 @@
 		"require-jsdoc": {
 			"active": 0,
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			},
+		"require-unicode-regexp": {
+			"active": 0,
+			"optionString": ""
 			},
 		"require-yield": {
 			"active": 1,
@@ -2620,7 +2743,7 @@
 			},
 		"spaced-comment": {
 			"active": 0,
-			"optionString": "'always', {'line': {'markers': ['\/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+			"optionString": "'always', {'line': {'markers': ['/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
 			},
 		"strict": {
 			"active": 0,
@@ -2680,7 +2803,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerAddress": "http://localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -3075,8 +3198,8 @@
 		"escapeHTMLCharacters": 0,
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
-		"outputStyle": 0,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -3094,10 +3217,11 @@
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.js",
-		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathRelativePath": "/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"bundleFormat": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 3,
@@ -3120,25 +3244,26 @@
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
-		"disableJavascript": 0,
+		"enableJavascript": 0,
 		"ieCompatibility": 1,
+		"mathStyle": 0,
 		"outputStyle": 0,
-		"relativeURLS": 0,
+		"rewriteURLStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"strictImports": 0,
-		"strictMath": 0,
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
@@ -3159,6 +3284,7 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -3168,7 +3294,8 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -3189,12 +3316,13 @@
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
 		"outputStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -3218,12 +3346,13 @@
 		"outputFormat": 0,
 		"outputStyle": 1,
 		"railsCompatible": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -3247,36 +3376,70 @@
 	"languageDefaultsTS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "\/js",
+		"autoOutputPathRelativePath": "/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
-		"jsxMode": 0,
 		"minifyOutput": 0,
 		"moduleResolutionType": 0,
 		"moduleType": 2,
-		"noImplicitAny": 0,
-		"preserveConstEnums": 0,
 		"removeComments": 0,
-		"suppressImplicitAnyIndexErrors": 0,
 		"targetECMAVersion": 0
 		},
 	"languageDefaultsUserDefined": [
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
+	"tsAllowSyntheticDefaultImports": 0,
+	"tsAllowUnreachableCode": 0,
+	"tsAllowUnusedLabels": 0,
+	"tsAlwaysStrict": 0,
+	"tsDownlevelIteration": 0,
+	"tsEmitBOM": 0,
+	"tsEmitDecoratorMetadata": 0,
+	"tsESModuleInterop": 0,
+	"tsForceConsistentCasingInFileNames": 0,
+	"tsImportHelpers": 0,
+	"tsIsolatedModules": 0,
+	"tsJSXFactory": "React.createElement",
+	"tsKeyofStringsOnly": 0,
+	"tsNoEmitHelpers": 0,
+	"tsNoFallthroughCasesInSwitch": 0,
+	"tsNoImplicitAny": 0,
+	"tsNoImplicitReturns": 0,
+	"tsNoImplicitThis": 0,
+	"tsNoImplicitUseStrict": 0,
+	"tsNoLib": 0,
+	"tsNoResolve": 0,
+	"tsNoStrictGenericChecks": 0,
+	"tsNoUnusedLocals": 0,
+	"tsNoUnusedParameters": 0,
+	"tsPreserveConstEnums": 0,
+	"tsPreserveSymlinks": 0,
+	"tsResolveJsonModule": 0,
+	"tsSkipLibCheck": 0,
+	"tsStrictFunctionTypes": 0,
+	"tsStrictNullChecks": 0,
+	"tsStrictPropertyInitialization": 0,
+	"tsStripInternal": 0,
+	"tsSuppressExcessPropertyErrors": 0,
+	"tsSuppressImplicitAnyIndexErrors": 0,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
-		"ascii-only": {
-			"active": 0,
+		"arguments": {
+			"active": 1,
 			"flagValue": -1
 			},
-		"bare-returns": {
+		"arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3284,23 +3447,27 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"bracketize": {
+		"booleans_as_integers": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"cascade": {
+		"braces": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"collapse_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
 		"comments": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"comparisons": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"compress": {
+		"computed_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -3312,6 +3479,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"directives": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"drop_console": {
 			"active": 0,
 			"flagValue": -1
@@ -3319,6 +3490,10 @@
 		"drop_debugger": {
 			"active": 1,
 			"flagValue": -1
+			},
+		"ecma": {
+			"active": 1,
+			"flagValue": 5
 			},
 		"eval": {
 			"active": 0,
@@ -3328,7 +3503,15 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"expression": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -3336,24 +3519,36 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"if_return": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-level": {
+		"indent_level": {
 			"active": 0,
 			"flagValue": 4
 			},
-		"indent-start": {
+		"indent_start": {
 			"active": 0,
 			"flagValue": 0
 			},
-		"inline-script": {
-			"active": 0,
+		"inline": {
+			"active": 1,
+			"flagValue": 3
+			},
+		"inline_script": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"join_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"keep_classnames": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"keep_fargs": {
@@ -3364,21 +3559,33 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"keep_infinity": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_quoted_props": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"loops": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"mangle": {
-			"active": 1,
-			"flagValue": -1
-			},
-		"max-line-len": {
+		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
+			},
+		"module": {
+			"active": 0,
+			"flagValue": -1
 			},
 		"negate_iife": {
 			"active": 1,
 			"flagValue": -1
+			},
+		"passes": {
+			"active": 1,
+			"flagValue": 1
 			},
 		"properties": {
 			"active": 1,
@@ -3388,12 +3595,24 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"quote-keys": {
+		"quote_keys": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"screw-ie8": {
+		"quote_style": {
 			"active": 1,
+			"flagValue": 0
+			},
+		"reduce_funcs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"reduce_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"safari10": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -3404,23 +3623,59 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"sort": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"space-colon": {
+		"shebang": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"support-ie8": {
-			"active": 0,
+		"side_effects": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"switches": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"toplevel": {
 			"active": 0,
 			"flagValue": -1
 			},
+		"typeofs": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_comps": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_Function": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_methods": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_undefined": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3432,11 +3687,16 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"width": {
-			"active": 1,
-			"flagValue": 80
+		"webkit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wrap_iife": {
+			"active": 0,
+			"flagValue": -1
 			}
 		},
+	"uglifyMangleNames": 1,
 	"uglifyReservedNamesString": "$",
 	"websiteRelativeRoot": ""
 	},
